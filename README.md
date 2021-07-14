@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ❓ I'm [on Stack Overflow](https://stackexchange.com/users/5734928/dreua?tab=accounts)
 - 🧰 I'm also occasionally on [Gitlab.com](https://gitlab.com/dreua) and [GNOME Gitlab](https://gitlab.gnome.org/dreua)
 - 🤓 Interested in Linux, Open Source Software, OpenStreetMap / GIS, Robotics, Automation, Electronics / DIY
-- 😄 Pronouns: he/his/him or they/their/them you choose!
+- 😄 Pronouns: he/his/him
