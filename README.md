@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
+
 - 🔭 I’m currently looking for a job! ([✉️ Mail me!](mailto:hire-david-auer@posteo.de) [![linkedin-icon](./linkedin.ico) LinkedIn](https://www.linkedin.com/in/dauer-mainz/))
+-->
 - 🐧 I use and [contribute](https://badges.fedoraproject.org/user/dreua) to Fedora Linux
 - 📦 I'm frequently working on [PDF Arranger](//github.com/pdfarranger/pdfarranger) and I maintain packages [for Fedora](https://src.fedoraproject.org/user/dreua) and [on Flathub](https://flathub.org/apps/details/com.github.jeromerobert.pdfarranger)
 - ❓ I'm [on Stack Overflow](https://stackexchange.com/users/5734928/dreua?tab=accounts)
