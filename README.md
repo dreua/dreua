@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🧰 I'm also occasionally on [Gitlab.com](https://gitlab.com/dreua) and [GNOME Gitlab](https://gitlab.gnome.org/dreua)
 - 🤓 Interested in Linux, Open Source Software, OpenStreetMap / GIS, Robotics, Automation, Electronics / DIY
 - 😄 Pronouns: he/his/him
+
+![David Auer's Github Stats](https://github-readme-stats.vercel.app/api?username=dreua&count_private=true)
