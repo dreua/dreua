@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🧰 I'm also occasionally on [Gitlab.com](https://gitlab.com/dreua) and [GNOME Gitlab](https://gitlab.gnome.org/dreua)
 - 🤓 Interested in Linux, Open Source Software, OpenStreetMap / GIS, Robotics, Automation, Electronics / DIY
 - 😄 Pronouns: he/his/him
+
+
+[![Github status](https://img.shields.io/badge/Github_IPv6-Missing-red?logo=github)](https://whynoipv6.com/domain/github.com/)
